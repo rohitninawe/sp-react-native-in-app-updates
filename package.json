@@ -48,7 +48,7 @@
     "react-native-device-info": "10.3.0",
     "react-native-siren": "^0.0.7",
     "semver": "^7.7.1",
-    "underscore": "1.12.1"
+    "underscore": "^1.13.8"
   },
   "resolutions": {
     "react-native-device-info": "10.3.0"
